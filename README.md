@@ -9,9 +9,8 @@
 <p>و همچنین من از این تکنولوژی ها و برنامه ها استفاده میکنم :</p>
 <a href="#."><img src="https://skillicons.dev/icons?i=discord,ps,pr,github,vscode,visualstudio,androidstudio,git"></img></a>
 <h3>وضعیت گیتهاب من :</h1>
-<a href="#."><img src="https://github-readme-stats.vercel.app/api?username=SeniorDiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></img></a>
-<a href="#."><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorDiv&layout=compact&theme=buefy&hide_border=true"></img></a>
+<a href="#."><img src="https://github-readme-stats.vercel.app/api?username=tryhardrip&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></img></a>
+<a href="#."><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryhardrip&layout=compact&theme=buefy&hide_border=true"></img></a>
 <h3>برترین مخازن من :</h1>
-<a href="https://github.com/tryhardrip"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=SandisFarsi&theme=buefy"></img></a>
 <a href="https://github.com/tryhardrip/Discord-Bot-Ticket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=PersianLRD&theme=buefy&nc1"></img></a>
 </div>
