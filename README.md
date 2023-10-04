@@ -12,5 +12,5 @@
 <a href="#."><img src="https://github-readme-stats.vercel.app/api?username=tryhardrip&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></img></a>
 <a href="#."><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryhardrip&layout=compact&theme=buefy&hide_border=true"></img></a>
 <h3>برترین مخازن من :</h1>
-<a href="https://github.com/tryhardrip/Discord-Bot-Ticket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=PersianLRD&theme=buefy&nc1"></img></a>
+<a href="https://github.com/tryhardrip/Discord-Bot-Ticket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tryhardrip&repo=Discord-Bot-Ticket&theme=buefy&nc1"></img></a>
 </div>
